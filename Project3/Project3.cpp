@@ -23,8 +23,6 @@ int main()
 //junior first commit 
 -0-3ks
 
-// ussing append functions
- for test
 
-     .121
 
+오 찾았다. 
